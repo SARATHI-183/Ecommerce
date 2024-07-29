@@ -1,0 +1,9 @@
+dotenv
+nodemon
+express
+mongoose
+jsonwebtoken
+bcryptjs
+nodemailer
+multer
+uuid
